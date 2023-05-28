@@ -24,6 +24,7 @@ The objective function has two variables x1 and x2. The coefficients 0.013 and 0
 
 ![image](https://github.com/naomigonzalez1/My_repo/assets/133794721/f011cb03-0660-4267-8e61-f650ddf35a01)
 
+In this case, the constraints are the symbols <= / >= in the code, because it asks that the values have to be more than or less than 8.0, 6.0, 2.0 and 4.0 to get us the percentage for protein, fat, fiber and salt.
 
 6. Is this a minimization or maximization problem? 
 
